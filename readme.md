@@ -1,0 +1,1 @@
+this is a music player project, the web server is BaiduMusic ,music player logic use freeStreamer frame .
